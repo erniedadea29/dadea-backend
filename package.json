@@ -5,7 +5,7 @@
   "scripts": {
     "start":"node app",
     "dev":"nodemon app",
-    "test": "echo \"No test script available\"",
+    "test": "echo \"No test script available\""
   },
   "keywords": [],
   "author": "",
