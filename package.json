@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"No test script available\"",
     "start":"node app",
-    "dev":"nodemon app"
+    "dev":"nodemon app",
+    "test": "echo \"No test script available\"",
   },
   "keywords": [],
   "author": "",
